@@ -1,5 +1,5 @@
 
-# Report by RAFFORDG
+# Report by ananar27
 
 ## Part 1 Установка Girlab-Runner
 - Целью задания было установить утилиту gitlab-runner на виртуальную машину ubuntu server 22.04 LTS.
