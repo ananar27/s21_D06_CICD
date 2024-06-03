@@ -118,24 +118,3 @@
 
     ![img/part5-3.png](img/part5-3.png)
     ![img/part5-4.png](img/part5-4.png)
-
-### BONUS PART
-- Целью задания было настроить уведомления об успешном/неуспешном выполнении пайплайна через бота с именем «[твой nickname] DO6 CI/CD» в *Telegram*.
-    - зарегистрируем бота в телеграм 
-    
-    ![img/part6-1.png](img/part6-1.png)
-
-    - напишем скрипт для нашего телеграм бота
-
-    ![img/part6-2.png](img/part6-2.png)
-
-    - добавим изменения на стадии deploy в .gitlab-ci.yml файл
-
-    ![img/part6-3.png](img/part6-3.png)
-    ![img/part6-4.png](img/part6-4.png)
-    - пользуемся
-
-    ![img/part6-5.png](img/part6-5.png)
-
-
-
